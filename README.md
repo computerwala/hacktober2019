@@ -18,6 +18,13 @@ To join to the list of contributors you just need to do this simple steps:
 * Commit your changes
 * Create a new PR
 
+### contributers name
+
+1. Aman Kumar Soni 
+2. Utkarsh Nagpure
+3. Virat sinha 
+
+
 Happy hacking!
 
 
