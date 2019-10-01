@@ -23,6 +23,7 @@ To join to the list of contributors you just need to do this simple steps:
 1. Aman Kumar Soni 
 2. Utkarsh Nagpure
 3. Virat sinha 
+4. Sahil Manchanda
 
 
 Happy hacking!
