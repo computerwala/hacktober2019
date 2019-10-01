@@ -7,3 +7,5 @@ Contribution for Hacktoberfest 2019
 2. Utkarsh Nagpure [https://github.com/Utkarsh2604]
 3. Virat sinha [https://github.com/Viratsinha]
 4. Sahil Manchanda [https://github.com/sahilmanchanda1999]
+5. Pawan Kumar [https://github.com/PawanKumar145]
+6. Andrei Dolca [https://github.com/jedipanda]

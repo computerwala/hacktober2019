@@ -24,6 +24,8 @@ To join to the list of contributors you just need to do this simple steps:
 2. Utkarsh Nagpure
 3. Virat sinha 
 4. Sahil Manchanda
+5. Andrei Dolca
+6. Pawan Kumar
 
 
 Happy hacking!
