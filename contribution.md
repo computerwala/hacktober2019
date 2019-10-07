@@ -7,4 +7,6 @@ Contribution for Hacktoberfest 2019
 5. Pawan Kumar [https://github.com/PawanKumar145]
 6. Andrei Dolca [https://github.com/jedipanda]
 7. Abhinav Akhil [https://github.com/abhinavakhil]
-7. Rachit Nagwani [https://github.com/RachitN]
+8. Rachit Nagwani [https://github.com/RachitN]
+9. Utkarsh Jaiswal[https://github.com/uj2010]
+
