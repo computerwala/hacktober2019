@@ -9,4 +9,5 @@ Contribution for Hacktoberfest 2019
 7. Abhinav Akhil [https://github.com/abhinavakhil]
 8. Rachit Nagwani [https://github.com/RachitN]
 9. Utkarsh Jaiswal[https://github.com/uj2010]
+10. João Victor Bravo[https://github.com/joaovictor1020]
 
